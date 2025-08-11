@@ -1,0 +1,1 @@
+Etch a sketch project assignment for The Odin Project fundamentals.
