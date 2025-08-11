@@ -1,0 +1,6 @@
+.container {
+    width : 440px;
+    display : flex;
+    flex-direction: row;
+    flex-wrap : wrap;
+}
